@@ -41,12 +41,12 @@ A page dedicated to all my favorite Apps, tips, and tricks for iOS. Many of thes
 | [Hush](https://github.com/oblador/hush) | FREE | Content blocker for Safari. |
 | [Just Watch](https://www.justwatch.com/us/apps) | FREE | Find out where a movie or tv show is available to watch on popular streaming services like Netflix, Hulu, Apple TV+, Disney+, and more. |
 | [Ka-Block!](https://github.com/dgraham/Ka-Block) | FREE | Ad blocker for Safari. |
-| [Kiwix](https://kiwix.org/en/) | FREE | Store local copies of Wikipedia on your Mac. |
+| [Kiwix](https://kiwix.org/en/) | FREE | Store local copies of Wikipedia on your device. |
 | [Libro.fm](https://libro.fm/) | FREE | Audiobook service that supports your local bookstores and authors. |
 | [Linea Sketch](https://linea-app.com) | FREE | Sketching app for iOS devices. |
 | [LumaFusion](https://luma-touch.com) | FREE | Video editing app for iOS devices. |
 | [Mastodon](https://joinmastodon.org/apps) | FREE | Federated social network. |
-| [Meeter](https://apps.apple.com/us/app/meeter-for-zoom-teams-co/id1510445899) | FREE | Helpful app to view your upcoming online meetings via the Mac top bar. |
+| [Meeter](https://apps.apple.com/us/app/meeter-for-zoom-teams-co/id1510445899) | FREE | Helpful app to view your upcoming online meetings. |
 | [Mela](https://mela.recipes) | FREE | Manage all your food recipes. |
 | [Merlin Bird ID](https://merlin.allaboutbirds.org) | FREE | Bird identification app via recorded sounds and images. |
 | [Metamask](https://metamask.io/) | FREE | Cryptocurrency wallet and browser extension. |
