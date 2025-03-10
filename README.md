@@ -7,7 +7,7 @@ A page dedicated to all my favorite Apps, tips, and tricks for iOS. Many of thes
 | [1Password](https://1password.com) | $ | Great cross-platform password manager app if you have other non-Apple devices, otherwise Apple's Password app works great too. |
 | [Actions](https://github.com/sindresorhus/Actions) | FREE | A collection of specialized actions for Siri Shortcuts. |
 | [Affinity Photo](https://affinity.serif.com/en-us/photo/ipad/) | $ | Image creation and photo editing software. A great alternative to Photoshop, and much cheaper comparatively. |
-| [Animation Desk](https://www.kdan.com/animation-desk) | FREE | A powerful animation software for creating animations on iPad. |
+| [Animation Desk](https://www.kdan.com/animation-desk) | FREE | A great app for creating animations on iPad. |
 | Apple Calendar | FREE | Comes pre-installed with iOS, a great calendar app. |
 | [Apple GarageBand](https://apps.apple.com/us/app/garageband/id408709785) | FREE | Simple but powerful music creation app. |
 | Apple Home | FREE | Comes pre-installed with iOS, a great home automation app. |
