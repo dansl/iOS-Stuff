@@ -8,21 +8,21 @@ A page dedicated to all my favorite Apps, tips, and tricks for iOS. Many of thes
 | [Actions](https://github.com/sindresorhus/Actions) | FREE | A collection of specialized actions for Siri Shortcuts. |
 | [Affinity Photo](https://affinity.serif.com/en-us/photo/ipad/) | $ | Image creation and photo editing software. A great alternative to Photoshop, and much cheaper comparatively. |
 | [Animation Desk](https://www.kdan.com/animation-desk) | FREE | A powerful animation software for creating animations on iPad. |
-| Apple Calendar | FREE | Comes pre-installed with MacOS, a great calendar app. |
+| Apple Calendar | FREE | Comes pre-installed with iOS, a great calendar app. |
 | [Apple GarageBand](https://apps.apple.com/us/app/garageband/id408709785) | FREE | Simple but powerful music creation app. |
-| Apple Home | FREE | Comes pre-installed with MacOS, a great home automation app. |
+| Apple Home | FREE | Comes pre-installed with iOS, a great home automation app. |
 | [Apple iMovie](https://www.apple.com/imovie/index.html) | FREE | Simple but powerful video editing software. |
-| Apple Mail | FREE | Comes pre-installed with MacOS, a great email client. |
-| Apple Measure | FREE | Comes pre-installed with MacOS, a great measurement tool. |
-| [Apple Music](https://music.apple.com/) | FREE | Comes pre-installed with MacOS, a great music streaming service. |
-| Apple News | FREE | Comes pre-installed with MacOS, a great news aggregator. |
-| Apple Password | FREE | Comes pre-installed with MacOS, a great password management tool. |
-| Apple Podcasts | FREE | Comes pre-installed with MacOS, a great podcast streaming service. |
-| Apple Safari | FREE | Comes pre-installed with MacOS, secure web browser. |
-| Apple Shortcuts | FREE | Comes pre-installed with MacOS, a powerful tool for automating tasks. |
-| Apple Translate | FREE | Comes pre-installed with MacOS, a powerful tool for translating text. |
-| Apple TV | FREE | Comes pre-installed with MacOS, a great streaming service. |
-| Apple Weather | FREE | Comes pre-installed with MacOS, a great weather app. |
+| Apple Mail | FREE | Comes pre-installed with iOS, a great email client. |
+| Apple Measure | FREE | Comes pre-installed with iOS, a great measurement tool. |
+| [Apple Music](https://music.apple.com/) | FREE | Comes pre-installed with iOS, a great music streaming service. |
+| Apple News | FREE | Comes pre-installed with iOS, a great news aggregator. |
+| Apple Password | FREE | Comes pre-installed with iOS, a great password management tool. |
+| Apple Podcasts | FREE | Comes pre-installed with iOS, a great podcast streaming service. |
+| Apple Safari | FREE | Comes pre-installed with iOS, secure web browser. |
+| Apple Shortcuts | FREE | Comes pre-installed with iOS, a powerful tool for automating tasks. |
+| Apple Translate | FREE | Comes pre-installed with iOS, a powerful tool for translating text. |
+| Apple TV | FREE | Comes pre-installed with iOS, a great streaming service. |
+| Apple Weather | FREE | Comes pre-installed with iOS, a great weather app. |
 | [Archives](https://apps.apple.com/us/app/archives-opens-any-format/id562790811) | FREE | iOS can open most compressed formats, this covers any it misses. |
 | [AstroPad Studio](https://astropad.com/app-downloads/studio-download/) | $ | Turn your iPad into a professional drawing tablet for Mac or PC |
 | [Authy](https://www.authy.com) | FREE | Two-factor authentication app with syncing. |
