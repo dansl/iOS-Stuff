@@ -1,5 +1,5 @@
 # iOS-Stuff
-A page dedicated to all my favorite Apps, tips, and tricks for iOS. Many of these apps and tips apply to both iOS and iPadOS.
+A page dedicated to all my favorite apps, tips, and tricks for iOS. Many of these apps and tips apply to both iOS and iPadOS.
 
 ## iOS Apps
 | Name | Price | Note |
