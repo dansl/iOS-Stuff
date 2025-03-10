@@ -84,7 +84,7 @@ A page dedicated to all my favorite Apps, tips, and tricks for iOS. Many of thes
 | [Wifi Man](https://apps.apple.com/us/app/ubiquiti-wifiman/id1385561119) | FREE | WiFi management and network scanning app. |
 | [Windows App Mobile](https://apps.apple.com/us/app/windows-app-mobile/id714464092) | FREE | Remote desktop viewing app. |
 | [xScope](https://xscopeapp.com) | $ | A powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts. |
-| [ZBrush](https://apps.apple.com/us/app/zbrush/id6612028716) | $ | Digital sculpting and painting app. |
+| [ZBrush](https://apps.apple.com/us/app/zbrush/id6612028716) | FREE | Digital sculpting and painting app. |
 | [3D Go](https://apps.apple.com/us/app/thingiverse-printables-3d-go/id6462052942) | FREE | 3D Print finder and agregator for various services such as Thingiverse, Printables, and more. |
 
 ## iOS Tips and Tricks
