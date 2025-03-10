@@ -107,7 +107,7 @@ A page dedicated to all my favorite apps, tips, and tricks for iOS. Many of thes
   - You can type in keywords to find specific photos. For example, if you want to find snowy pictures, type snow.
   - You can also add captions to photos or videos, making it easier to search for them in the future. Simply swipe up on a photo and tap on Add Caption.
 - **Quick Way to Access Timer** - Just head to the Control Center, long-press the Clock icon, move the slider up/down to set the duration, and hit the Start button.
-- **Enable Type to Siri** - Open Settings > Accessibility > Siri, and turn ON the Type to Siri toggle. Wait, we aren’t done yet! Make sure to choose Prefer Silent Responses under the Spoken Responses section. Otherwise, you’ll be able to ask questions by typing, but Siri will respond by reading the answers aloud, and you obviously don’t want that.
+- **Enable Type to Siri** - Open Settings > Accessibility > Siri, and turn ON the Type to Siri toggle. Choose Prefer Silent Responses under the Spoken Responses section, if you want to avoid any noise.
 - **Automatically Close Safari Tabs** - Go to the Settings app -> Safari -> Close Tabs. Now, choose the preferred option like After One Day, After One Week, or After One Month to automatically close the tabs after the stipulated time.
 - **Faster Way to Make Payments or Scan QR Codes** - Swipe left on the Lock Screen to open the Camera app and scan the QR code on your iPhone.
 - **Record Videos while Playing Music** - While the song is playing on your iPhone, open the Camera app and remain in Photo mode. Now, tap and hold the Shutter button. Your iPhone will start recording the video with music playing in the background.
