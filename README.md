@@ -54,8 +54,8 @@ A page dedicated to all my favorite Apps, tips, and tricks for iOS. Many of thes
 | [Nomad Sculpt](https://apps.apple.com/us/app/nomad-sculpt/id1519508653) | $ | 3D modeling and sculpting app for iOS devices. |
 | [Odysee](https://apps.apple.com/us/app/odysee/id1539444143) | FREE | Decentralized video sharing platform. |
 | [OnShape 3D CAD](https://apps.apple.com/us/app/onshape-3d-cad/id923421284) | FREE | 3D modeling and design app for engineering. |
-| [Orion HDMI Monitor](https://apps.apple.com/us/app/hdmi-monitor-orion/id6459355072) | $ | Turn your iPad into an HDMI monitor. |
-| [Pixel Studio](https://apps.apple.com/us/app/pixel-studio-for-pixel-art/id1404203859) | $ | Pixel art creation and editing app for iOS devices. |
+| [Orion HDMI Monitor](https://apps.apple.com/us/app/hdmi-monitor-orion/id6459355072) | FREE | Turn your iPad into an HDMI monitor. |
+| [Pixel Studio](https://apps.apple.com/us/app/pixel-studio-for-pixel-art/id1404203859) | FREE | Pixel art creation and editing app for iOS devices. |
 | [Pixelmator](https://www.pixelmator.com/pro/) | $ | Image creation and photo editing software. A great alternative to Photoshop, and much cheaper comparatively. |
 | [Plex](https://www.plex.tv) | FREE | Media server and streaming app. |
 | [Prompt](https://panic.com/prompt/) | $ | Remote SSH Manager. |
@@ -136,3 +136,28 @@ A page dedicated to all my favorite Apps, tips, and tricks for iOS. Many of thes
 - Lock Private Tabs in Safari - Open Settings -> Safari and turn on the toggle for “Require Face ID to Unlock Private Browsing”.
 - Auto-delete One-Time-Passwords in Text Messages and Mail app - Settings -> Passwords -> Password Options and turn on the Clean Up Automatically toggle.
 - Toss a Coin - Ask Siri to flip a coin.
+- Snag Text from Photos and Video - View the image or pause the video. Click the small Live Text icon, and it highlights all the text you can copy (tap and hold to copy it)
+- Safari, Block Distracting Items - When you're on a page, click the icon on the left in the address bar to see the Page Menu. In there, click Hide Distracting Items. Then click anything you want to disappear. It won't work on ads or anything that updates frequently, but it can't hurt to try with the most annoying distractions.
+- Play Ambient Background Noise - Go to Settings > Control Center > Hearing and tap the plus sign. You can then access it from the Control Center (swipe down from right side); it's the icon with an ear on it. There's a slider to adjust the volume. Tap the icon again to turn it off.
+- Turn Off Your Microphone on Screen Recordings - Long-press on the button in Control Center. You'll see either Microphone Off or Microphone On—set your preference.
+- Broadcast Your Screen - Holding down the Screen Recording button in Control Center also produces another option: You can pick an app into which your recording can be saved (say, Photos) or do a direct broadcast. The apps that support broadcast include chats apps such as Facebook Messenger; video-meeting tools such as Zoom, Google Meet, and Skype; or even sharing services including TikTok and Twitch.
+- Silence Unknown Callers - Settings > Phone > Silence Unknown Callers.
+- Watch a Live Voicemail - Turn it on in Settings > Phone > Live Voicemail. Then you can live read what's being said in the voicemail, as it's being made. You can even answer the call mid-way through.
+- Hang Up via Airplane - When you're on a call and switch on Airplane mode, the call is cut off, as if it had failed.
+- Make Calls Over Wi-Fi - Go to Settings > Phone > Wi-Fi Calling to turn it on.
+- Use Your iPad to Make Phone Calls - Once you have Wi-Fi Calling turned on, you get another option—Add Wi-Fi Calling for Other Devices.
+- Move Multiple Apps at Once - press down on one app until it goes wiggly, then use another finger to tap a bunch of apps. They'll be grouped.
+- Change the Default Apps - Settings app, scroll down, and select the Apps button. At the top of the screen will be a button for Default Apps.
+- Night Shift - Activate Night Shift via Settings > Display & Brightness to reduce the blue wavelength of light on the screen.
+- Replace the Lock Screen Flashlight/Camera Icons - Go to edit the lock screen options (hold your finger down on the screen) and click Customize > Lock Screen.
+- Share Your Wi-Fi Password Automatically - Make sure you and your guest both have Bluetooth turned on. Then, have them navigate to Wi-Fi settings. If they have a modern iOS, iPadOS, or macOS device, and they're in your contacts list, a pop-up will appear on your screen saying "Do you want to share the Wi-Fi password?" Tap Share Password, and that person can log in.
+- Quick Switch a Network or Bluetooth Connection - Swipe down from top right to access Control Center. The top-left section has the connection buttons for Airplane mode, Cellular, Wi-Fi, and Bluetooth grouped together. Long-press on the group, and a menu pops out showing AirDrop and Personal Hotspot buttons. Press down on Wi-Fi for a quick menu of all available networks; do the same to Bluetooth for a list of possible connections.
+- Teach Siri Names - Say "Hey, Siri, learn how to pronounce (name)."
+- Find Other Apple Devices - Say "Hey, Siri, find my (device)"
+- Make Eye Contact in Facetime - Settings > FaceTime > Eye Contact, iPhone will make your eyes follow the person you're talking to.
+- Leave a Facetime Message - When someone doesn't answer on FaceTime, you can leave a message for them right in the app, as a video. Just tap Record Video when there's no answer, record what you want to say, click Stop, then Play if you want to review it before you hit Send.
+- Create SOS Contacts - Go to Health app, click the icon of your face, then Medical ID > Edit > Emergency Contacts
+- Use Volume Buttons as Shutter Buttons - Click either of the Volume buttons to take a snapshot. It'll even start/stop a video capture. If you hold the volume button down, it'll take a video until you release it.
+- Take People and Things Out of Images - In Photos app, tap the part you want to save, and it will pop off the screen a bit, then ask you to Copy or Share it; but you can also drag it around to place it somewhere else (into Messages or an email, for example). The background becomes transparent.
+- Strip Data From Photos Before You Share - View a photo and click the Share Button, but before you share it, click Options at the top. Turn off All Photos Data.
+- Crop It Quick - Just open an image and do the two-finger zoom-in, either in portrait or landscape mode. A Crop button appears at the upper right. Tap it and the image is instantly whittled down to what you see on the screen.
