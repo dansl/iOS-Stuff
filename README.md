@@ -89,75 +89,74 @@ A page dedicated to all my favorite Apps, tips, and tricks for iOS. Many of thes
 
 ## iOS Tips and Tricks
 
-- Bypass Silent mode for Emergency contacts - Open your Contacts and select the contact for which you want to bypass the silent mode. Now, tap Edit -> Ringtone and turn ON the Emergency Bypass toggle.
-- Make your device more secure with a Secondary Passcode
-  - Open the Settings app on your iPhone and visit the Screen Time section.
+- **Bypass Silent mode for Emergency contacts** - Open your Contacts and select the contact for which you want to bypass the silent mode. Now, tap Edit -> Ringtone and turn ON the Emergency Bypass toggle.
+- **Make your device more secure with a Secondary Passcode** - Open the Settings app on your iPhone and visit the Screen Time section.
   - Tap Content & Privacy Restrictions and turn the slider ON for Content & Privacy Restrictions.
   - Set a Screen Time Passcode that’s different from your iPhone’s Passcode.
   - Once you’ve done this, scroll down to find Passcode changes and Account changes options.
   - Tap Passcode Changes, and set it to Don’t Allow.
   - Now, go back and tap Account Changes, and set it to Don’t Allow as well.
-- Locate your Apple device that’s turned off - Go to Settings > Apple ID > Find My > Find My iPhone and turn the slider ON for Find My Network.
-- Disable Control Center when iPhone is Locked - Go to Settings > Face ID and Passcode and now turn the slider OFF for Control Center.
-- Two-finger Swipe to Quickly Select/deselect Multiple Items - To quickly select multiple items on your iPhone, tap an item using two fingers and swipe down to select as many items as you want. To deselect, simply swipe your fingers up.
-- Use your iPhone’s Keyboard as a Trackpad - While you’re typing, press & hold the Space bar until the keyboard goes blank. Now move your finger around to control the cursor.
-- Restrict iPhone to a Single App - Go to Settings -> Accessibility -> Guided Access (at the very bottom) and turn On the Guided Access toggle. Go to Passcode Settings and Time Limits to set a passcode and time limit for your guided session. To start the session, triple-press the Power/Home key. To end the session, triple-press the Power/Home key and enter the password.
-- Type Less with Text Replacements - Go to Settings -> General -> Keyboard and choose Text Replacement. Tap on the “+” icon from the top-right corner to create shortcuts for the phrases that you often use.
-- Quicker Way to Find Photos
+- **Locate your Apple device that’s turned off** - Go to Settings > Apple ID > Find My > Find My iPhone and turn the slider ON for Find My Network.
+- **Disable Control Center when iPhone is Locked** - Go to Settings > Face ID and Passcode and now turn the slider OFF for Control Center.
+- **Two-finger Swipe to Quickly Select/deselect Multiple Items** - To quickly select multiple items on your iPhone, tap an item using two fingers and swipe down to select as many items as you want. To deselect, simply swipe your fingers up.
+- **Use your iPhone’s Keyboard as a Trackpad** - While you’re typing, press & hold the Space bar until the keyboard goes blank. Now move your finger around to control the cursor.
+- **Restrict iPhone to a Single App** - Go to Settings -> Accessibility -> Guided Access (at the very bottom) and turn On the Guided Access toggle. Go to Passcode Settings and Time Limits to set a passcode and time limit for your guided session. To start the session, triple-press the Power/Home key. To end the session, triple-press the Power/Home key and enter the password.
+- **Type Less with Text Replacements** - Go to Settings -> General -> Keyboard and choose Text Replacement. Tap on the “+” icon from the top-right corner to create shortcuts for the phrases that you often use.
+- **Quicker Way to Find Photos**
   - Go to the Photos app on your iPhone and tap the Search option.
   - You can type in keywords to find specific photos. For example, if you want to find snowy pictures, type snow.
   - You can also add captions to photos or videos, making it easier to search for them in the future. Simply swipe up on a photo and tap on Add Caption.
-- Quick Way to Access Timer - Just head to the Control Center, long-press the Clock icon, move the slider up/down to set the duration, and hit the Start button.
-- Enable Type to Siri - Open Settings > Accessibility > Siri, and turn ON the Type to Siri toggle. Wait, we aren’t done yet! Make sure to choose Prefer Silent Responses under the Spoken Responses section. Otherwise, you’ll be able to ask questions by typing, but Siri will respond by reading the answers aloud, and you obviously don’t want that.
-- Automatically Close Safari Tabs - Go to the Settings app -> Safari -> Close Tabs. Now, choose the preferred option like After One Day, After One Week, or After One Month to automatically close the tabs after the stipulated time.
-- Faster Way to Make Payments or Scan QR Codes - Swipe left on the Lock Screen to open the Camera app and scan the QR code on your iPhone.
-- Record Videos while Playing Music - While the song is playing on your iPhone, open the Camera app and remain in Photo mode. Now, tap and hold the Shutter button. Your iPhone will start recording the video with music playing in the background.
-- Remove Specific/All Contact Suggestions from Share Sheet - Settings -> Siri & Search. Now, turn off the toggle right next to Show when Sharing. It will completely remove all the contact suggestions from the share sheet. If you want to remove specific suggestions, simply tap on the suggested contact and then choose “Suggest Less”.
-- Use your iPhone One-handed - Go to Settings > Accessibility > Touch and turn ON the “Reachability” toggle. Now, just swipe down on the bottom edge of the display. This cool iPhone trick works across the entire system, including Control Center, Settings, Home Screen, Photos, and third-party apps.
-- Type easier with one hand - Tap and hold the emoji or globe icon on the keyboard. You’ll see three keyboard icons, Left, Standard (currently selected), and Right.
-- Use a Three-finger swipe to Undo/Redo - When text gets deleted, use your three fingers to swipe left on the screen, and you’ll get the deleted text back. Swipe right to redo the last action.
-- Faster Way to Share Screenshots - Once you take a screenshot, tap and hold on to the thumbnail preview shown in the bottom-left corner, and select the contact.
-- Sign a document/PDF - Take a screenshot of it, open it, and tap on the “+” icon from the bottom right. Select Signature and you can sign directly on the screen or use a saved signature.
-- Send a complete webpage as a screenshot - Go to that webpage, take a screenshot, and tap on it. Now, select “Full Page” from the top of the screen. Next up, tap “Done” to save the screenshot as a PDF to Files, or hit the Share icon to quickly share that screenshot as a PDF.
-- Set Custom Vibration for Each Contact - Go to your Contacts and open the contact for which you wish to set a custom vibration. Tap Edit on the upper-right, scroll down, and tap on Ringtone or Text Tone. Next, tap on Vibration and choose a vibration pattern or Create a New Vibration. Once you’ve made the changes, tap on Done.
-- Close Three Apps at Once - Swipe up from the bottom and pause in the middle to see your recently opened apps. Now, use your three fingers to swipe up and close three apps at once.
-- Copy and Paste Photo Edits - Open the photo you’ve already edited, tap on the three dots from the top-right, and select Copy Edits. Then, open a new photo, tap on the three dots and tap on Paste Edits.
-- Replace Siri Voice with Your own Personal Voice - Open Settings -> Accessibility. Under Speech, tap Personal Voice and choose the Create a Personal Voice option. Once setup, you can use your voice as Siri in the Siri Voice settings.
-- Launch Your Favorite App Using Back Tap Gesture - Settings app -> Accessibility -> Touch -> Back Tap -> Double Tap/Triple Tap and then select a shortcut you want to use.
-- Trigger Siri When iPhone is Facing Down or Covered - Go to the Settings -> Accessibility -> Siri. Now, turn on the toggle right next to “Always Listen for Hey Siri.”
-- Hide iPhone Apps - Settings app on your iPhone -> Screen Time -> Content & Privacy Restrictions. Now, make sure the switch for Content & Privacy Restrictions is turned on. Then, tap on Allowed Apps. Turn off the apps you want to hide.
-- Hide Siri Suggestions - Settings app -> Siri & Search -> and then turn off the toggle right next to Show Suggestions.
-- Hide/Show Home Screen Pages - Touch and hold an empty part of the screen and then tap on the horizontal dots at the bottom. After that, deselect the home screen pages that you want to hide from the prying eyes. In the end, make sure to tap on Done at the top right corner to finish.
-- Set a Timer to Stop Music/Videos - Go to the Clock, tap on Timer, and set a duration. Now, tap on “When Timer Ends”, scroll down to the bottom, and choose “Stop Playing”. Finally, hit the “Set” button and you’re done.
-- Quickly Scroll to the top of an app or website - Simply tap on the top-most part of the screen in the middle above the status bar.
-- Use your iPhone as a Level Tool - Open the Measure app and tap on “Level” from the bottom.
-- Decode symbols/lights on your car’s dashboard, or Washing and Drying icons on clothing tags - Take a photo of the warning lights or symbols and swipe it up. Then tap on the Look Up Auto Symbol option.
-- Turn Off Contact Sharing - Open Settings -> General -> AirDrop and turn Off the toggle for Bringing Devices Together.
-- Lock Private Tabs in Safari - Open Settings -> Safari and turn on the toggle for “Require Face ID to Unlock Private Browsing”.
-- Auto-delete One-Time-Passwords in Text Messages and Mail app - Settings -> Passwords -> Password Options and turn on the Clean Up Automatically toggle.
-- Toss a Coin - Ask Siri to flip a coin.
-- Snag Text from Photos and Video - View the image or pause the video. Click the small Live Text icon, and it highlights all the text you can copy (tap and hold to copy it)
-- Safari, Block Distracting Items - When you're on a page, click the icon on the left in the address bar to see the Page Menu. In there, click Hide Distracting Items. Then click anything you want to disappear. It won't work on ads or anything that updates frequently, but it can't hurt to try with the most annoying distractions.
-- Play Ambient Background Noise - Go to Settings > Control Center > Hearing and tap the plus sign. You can then access it from the Control Center (swipe down from right side); it's the icon with an ear on it. There's a slider to adjust the volume. Tap the icon again to turn it off.
-- Turn Off Your Microphone on Screen Recordings - Long-press on the button in Control Center. You'll see either Microphone Off or Microphone On—set your preference.
-- Broadcast Your Screen - Holding down the Screen Recording button in Control Center also produces another option: You can pick an app into which your recording can be saved (say, Photos) or do a direct broadcast. The apps that support broadcast include chats apps such as Facebook Messenger; video-meeting tools such as Zoom, Google Meet, and Skype; or even sharing services including TikTok and Twitch.
-- Silence Unknown Callers - Settings > Phone > Silence Unknown Callers.
-- Watch a Live Voicemail - Turn it on in Settings > Phone > Live Voicemail. Then you can live read what's being said in the voicemail, as it's being made. You can even answer the call mid-way through.
-- Hang Up via Airplane - When you're on a call and switch on Airplane mode, the call is cut off, as if it had failed.
-- Make Calls Over Wi-Fi - Go to Settings > Phone > Wi-Fi Calling to turn it on.
-- Use Your iPad to Make Phone Calls - Once you have Wi-Fi Calling turned on, you get another option—Add Wi-Fi Calling for Other Devices.
-- Move Multiple Apps at Once - press down on one app until it goes wiggly, then use another finger to tap a bunch of apps. They'll be grouped.
-- Change the Default Apps - Settings app, scroll down, and select the Apps button. At the top of the screen will be a button for Default Apps.
-- Night Shift - Activate Night Shift via Settings > Display & Brightness to reduce the blue wavelength of light on the screen.
-- Replace the Lock Screen Flashlight/Camera Icons - Go to edit the lock screen options (hold your finger down on the screen) and click Customize > Lock Screen.
-- Share Your Wi-Fi Password Automatically - Make sure you and your guest both have Bluetooth turned on. Then, have them navigate to Wi-Fi settings. If they have a modern iOS, iPadOS, or macOS device, and they're in your contacts list, a pop-up will appear on your screen saying "Do you want to share the Wi-Fi password?" Tap Share Password, and that person can log in.
-- Quick Switch a Network or Bluetooth Connection - Swipe down from top right to access Control Center. The top-left section has the connection buttons for Airplane mode, Cellular, Wi-Fi, and Bluetooth grouped together. Long-press on the group, and a menu pops out showing AirDrop and Personal Hotspot buttons. Press down on Wi-Fi for a quick menu of all available networks; do the same to Bluetooth for a list of possible connections.
-- Teach Siri Names - Say "Hey, Siri, learn how to pronounce (name)."
-- Find Other Apple Devices - Say "Hey, Siri, find my (device)"
-- Make Eye Contact in Facetime - Settings > FaceTime > Eye Contact, iPhone will make your eyes follow the person you're talking to.
-- Leave a Facetime Message - When someone doesn't answer on FaceTime, you can leave a message for them right in the app, as a video. Just tap Record Video when there's no answer, record what you want to say, click Stop, then Play if you want to review it before you hit Send.
-- Create SOS Contacts - Go to Health app, click the icon of your face, then Medical ID > Edit > Emergency Contacts
-- Use Volume Buttons as Shutter Buttons - Click either of the Volume buttons to take a snapshot. It'll even start/stop a video capture. If you hold the volume button down, it'll take a video until you release it.
-- Take People and Things Out of Images - In Photos app, tap the part you want to save, and it will pop off the screen a bit, then ask you to Copy or Share it; but you can also drag it around to place it somewhere else (into Messages or an email, for example). The background becomes transparent.
-- Strip Data From Photos Before You Share - View a photo and click the Share Button, but before you share it, click Options at the top. Turn off All Photos Data.
-- Crop It Quick - Just open an image and do the two-finger zoom-in, either in portrait or landscape mode. A Crop button appears at the upper right. Tap it and the image is instantly whittled down to what you see on the screen.
+- **Quick Way to Access Timer** - Just head to the Control Center, long-press the Clock icon, move the slider up/down to set the duration, and hit the Start button.
+- **Enable Type to Siri** - Open Settings > Accessibility > Siri, and turn ON the Type to Siri toggle. Wait, we aren’t done yet! Make sure to choose Prefer Silent Responses under the Spoken Responses section. Otherwise, you’ll be able to ask questions by typing, but Siri will respond by reading the answers aloud, and you obviously don’t want that.
+- **Automatically Close Safari Tabs** - Go to the Settings app -> Safari -> Close Tabs. Now, choose the preferred option like After One Day, After One Week, or After One Month to automatically close the tabs after the stipulated time.
+- **Faster Way to Make Payments or Scan QR Codes** - Swipe left on the Lock Screen to open the Camera app and scan the QR code on your iPhone.
+- **Record Videos while Playing Music** - While the song is playing on your iPhone, open the Camera app and remain in Photo mode. Now, tap and hold the Shutter button. Your iPhone will start recording the video with music playing in the background.
+- **Remove Specific/All Contact Suggestions from Share Sheet** - Settings -> Siri & Search. Now, turn off the toggle right next to Show when Sharing. It will completely remove all the contact suggestions from the share sheet. If you want to remove specific suggestions, simply tap on the suggested contact and then choose “Suggest Less”.
+- **Use your iPhone One-handed** - Go to Settings > Accessibility > Touch and turn ON the “Reachability” toggle. Now, just swipe down on the bottom edge of the display. This cool iPhone trick works across the entire system, including Control Center, Settings, Home Screen, Photos, and third-party apps.
+- **Type easier with one hand** - Tap and hold the emoji or globe icon on the keyboard. You’ll see three keyboard icons, Left, Standard (currently selected), and Right.
+- **Use a Three-finger swipe to Undo/Redo** - When text gets deleted, use your three fingers to swipe left on the screen, and you’ll get the deleted text back. Swipe right to redo the last action.
+- **Faster Way to Share Screenshots** - Once you take a screenshot, tap and hold on to the thumbnail preview shown in the bottom-left corner, and select the contact.
+- **Sign a document/PDF** - Take a screenshot of it, open it, and tap on the “+” icon from the bottom right. Select Signature and you can sign directly on the screen or use a saved signature.
+- **Send a complete webpage as a screenshot** - Go to that webpage, take a screenshot, and tap on it. Now, select “Full Page” from the top of the screen. Next up, tap “Done” to save the screenshot as a PDF to Files, or hit the Share icon to quickly share that screenshot as a PDF.
+- **Set Custom Vibration for Each Contact** - Go to your Contacts and open the contact for which you wish to set a custom vibration. Tap Edit on the upper-right, scroll down, and tap on Ringtone or Text Tone. Next, tap on Vibration and choose a vibration pattern or Create a New Vibration. Once you’ve made the changes, tap on Done.
+- **Close Three Apps at Once** - Swipe up from the bottom and pause in the middle to see your recently opened apps. Now, use your three fingers to swipe up and close three apps at once.
+- **Copy and Paste Photo Edits** - Open the photo you’ve already edited, tap on the three dots from the top-right, and select Copy Edits. Then, open a new photo, tap on the three dots and tap on Paste Edits.
+- **Replace Siri Voice with Your own Personal Voice** - Open Settings -> Accessibility. Under Speech, tap Personal Voice and choose the Create a Personal Voice option. Once setup, you can use your voice as Siri in the Siri Voice settings.
+- **Launch Your Favorite App Using Back Tap Gesture** - Settings app -> Accessibility -> Touch -> Back Tap -> Double Tap/Triple Tap and then select a shortcut you want to use.
+- **Trigger Siri When iPhone is Facing Down or Covered** - Go to the Settings -> Accessibility -> Siri. Now, turn on the toggle right next to “Always Listen for Hey Siri.”
+- **Hide iPhone Apps** - Settings app on your iPhone -> Screen Time -> Content & Privacy Restrictions. Now, make sure the switch for Content & Privacy Restrictions is turned on. Then, tap on Allowed Apps. Turn off the apps you want to hide.
+- **Hide Siri Suggestions** - Settings app -> Siri & Search -> and then turn off the toggle right next to Show Suggestions.
+- **Hide/Show Home Screen Pages** - Touch and hold an empty part of the screen and then tap on the horizontal dots at the bottom. After that, deselect the home screen pages that you want to hide from the prying eyes. In the end, make sure to tap on Done at the top right corner to finish.
+- **Set a Timer to Stop Music/Videos** - Go to the Clock, tap on Timer, and set a duration. Now, tap on “When Timer Ends”, scroll down to the bottom, and choose “Stop Playing”. Finally, hit the “Set” button and you’re done.
+- **Quickly Scroll to the top of an app or website** - Simply tap on the top-most part of the screen in the middle above the status bar.
+- **Use your iPhone as a Level Tool** - Open the Measure app and tap on “Level” from the bottom.
+- **Decode symbols/lights on your car’s dashboard, or Washing and Drying icons on clothing tags** - Take a photo of the warning lights or symbols and swipe it up. Then tap on the Look Up Auto Symbol option.
+- **Turn Off Contact Sharing** - Open Settings -> General -> AirDrop and turn Off the toggle for Bringing Devices Together.
+- **Lock Private Tabs in Safari** - Open Settings -> Safari and turn on the toggle for “Require Face ID to Unlock Private Browsing”.
+- **Auto-delete One-Time-Passwords in Text Messages and Mail app** - Settings -> Passwords -> Password Options and turn on the Clean Up Automatically toggle.
+- **Toss a Coin** - Ask Siri to flip a coin.
+- **Snag Text from Photos and Video** - View the image or pause the video. Click the small Live Text icon, and it highlights all the text you can copy (tap and hold to copy it)
+- **Safari, Block Distracting Items** - When you're on a page, click the icon on the left in the address bar to see the Page Menu. In there, click Hide Distracting Items. Then click anything you want to disappear. It won't work on ads or anything that updates frequently, but it can't hurt to try with the most annoying distractions.
+- **Play Ambient Background Noise** - Go to Settings > Control Center > Hearing and tap the plus sign. You can then access it from the Control Center (swipe down from right side); it's the icon with an ear on it. There's a slider to adjust the volume. Tap the icon again to turn it off.
+- **Turn Off Your Microphone on Screen Recordings** - Long-press on the button in Control Center. You'll see either Microphone Off or Microphone On—set your preference.
+- **Broadcast Your Screen** - Holding down the Screen Recording button in Control Center also produces another option: You can pick an app into which your recording can be saved (say, Photos) or do a direct broadcast. The apps that support broadcast include chats apps such as Facebook Messenger; video-meeting tools such as Zoom, Google Meet, and Skype; or even sharing services including TikTok and Twitch.
+- **Silence Unknown Callers** - Settings > Phone > Silence Unknown Callers.
+- **Watch a Live Voicemail** - Turn it on in Settings > Phone > Live Voicemail. Then you can live read what's being said in the voicemail, as it's being made. You can even answer the call mid-way through.
+- **Hang Up via Airplane** - When you're on a call and switch on Airplane mode, the call is cut off, as if it had failed.
+- **Make Calls Over Wi-Fi** - Go to Settings > Phone > Wi-Fi Calling to turn it on.
+- **Use Your iPad to Make Phone Calls** - Once you have Wi-Fi Calling turned on, you get another option—Add Wi-Fi Calling for Other Devices.
+- **Move Multiple Apps at Once** - press down on one app until it goes wiggly, then use another finger to tap a bunch of apps. They'll be grouped.
+- **Change the Default Apps** - Settings app, scroll down, and select the Apps button. At the top of the screen will be a button for Default Apps.
+- **Night Shift** - Activate Night Shift via Settings > Display & Brightness to reduce the blue wavelength of light on the screen.
+- **Replace the Lock Screen Flashlight/Camera Icons** - Go to edit the lock screen options (hold your finger down on the screen) and click Customize > Lock Screen.
+- **Share Your Wi-Fi Password Automatically** - Make sure you and your guest both have Bluetooth turned on. Then, have them navigate to Wi-Fi settings. If they have a modern iOS, iPadOS, or macOS device, and they're in your contacts list, a pop-up will appear on your screen saying "Do you want to share the Wi-Fi password?" Tap Share Password, and that person can log in.
+- **Quick Switch a Network or Bluetooth Connection** - Swipe down from top right to access Control Center. The top-left section has the connection buttons for Airplane mode, Cellular, Wi-Fi, and Bluetooth grouped together. Long-press on the group, and a menu pops out showing AirDrop and Personal Hotspot buttons. Press down on Wi-Fi for a quick menu of all available networks; do the same to Bluetooth for a list of possible connections.
+- **Teach Siri Names** - Say "Hey, Siri, learn how to pronounce (name)."
+- **Find Other Apple Devices** - Say "Hey, Siri, find my (device)"
+- **Make Eye Contact in Facetime** - Settings > FaceTime > Eye Contact, iPhone will make your eyes follow the person you're talking to.
+- **Leave a Facetime Message** - When someone doesn't answer on FaceTime, you can leave a message for them right in the app, as a video. Just tap Record Video when there's no answer, record what you want to say, click Stop, then Play if you want to review it before you hit Send.
+- **Create SOS Contacts** - Go to Health app, click the icon of your face, then Medical ID > Edit > Emergency Contacts
+- **Use Volume Buttons as Shutter Buttons** - Click either of the Volume buttons to take a snapshot. It'll even start/stop a video capture. If you hold the volume button down, it'll take a video until you release it.
+- **Take People and Things Out of Images** - In Photos app, tap the part you want to save, and it will pop off the screen a bit, then ask you to Copy or Share it; but you can also drag it around to place it somewhere else (into Messages or an email, for example). The background becomes transparent.
+- **Strip Data From Photos Before You Share** - View a photo and click the Share Button, but before you share it, click Options at the top. Turn off All Photos Data.
+- **Crop It Quick** - Just open an image and do the two-finger zoom-in, either in portrait or landscape mode. A Crop button appears at the upper right. Tap it and the image is instantly whittled down to what you see on the screen.
