@@ -59,6 +59,7 @@ A page dedicated to all my favorite apps, tips, and tricks for iOS. Many of thes
 | [Pixelmator](https://www.pixelmator.com/pro/) | $ | Image creation and photo editing software. A great alternative to Photoshop, and much cheaper comparatively. |
 | [Plex](https://www.plex.tv) | FREE | Media server and streaming app. |
 | [Procreate](https://procreate.com) | $ | Digital art creation and editing app for iOS devices. |
+| [Procreate Dreams](https://procreate.com/dreams) | $ | Digital animation app for iOS devices. |
 | [Prompt](https://panic.com/prompt/) | $ | Remote SSH Manager. |
 | [Provenance](https://apps.apple.com/us/app/provenance-app/id1596862805) | FREE | Multi-platform retro gaming emulator. |
 | [RadarOmega](https://apps.apple.com/us/app/radaromega/id1439881811) | $ | Weather radar tracking and analysis tool. |
