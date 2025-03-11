@@ -1,4 +1,4 @@
-# iOS-Stuff
+# iOS Stuff
 A page dedicated to all my favorite apps, tips, and tricks for iOS. Many of these apply to both iOS and iPadOS.
 
 ## iOS Apps
