@@ -58,6 +58,7 @@ A page dedicated to all my favorite apps, tips, and tricks for iOS. Many of thes
 | [Pixel Studio](https://apps.apple.com/us/app/pixel-studio-for-pixel-art/id1404203859) | FREE | Pixel art creation and editing app for iOS devices. |
 | [Pixelmator](https://www.pixelmator.com/pro/) | $ | Image creation and photo editing software. A great alternative to Photoshop, and much cheaper comparatively. |
 | [Plex](https://www.plex.tv) | FREE | Media server and streaming app. |
+| [Procreate](https://procreate.com) | $ | Digital art creation and editing app for iOS devices. |
 | [Prompt](https://panic.com/prompt/) | $ | Remote SSH Manager. |
 | [Provenance](https://apps.apple.com/us/app/provenance-app/id1596862805) | FREE | Multi-platform retro gaming emulator. |
 | [RadarOmega](https://apps.apple.com/us/app/radaromega/id1439881811) | $ | Weather radar tracking and analysis tool. |
@@ -69,6 +70,7 @@ A page dedicated to all my favorite apps, tips, and tricks for iOS. Many of thes
 | [Shapr3D](https://www.shapr3d.com) | FREE | 3D modeling and engineering CAD app. |
 | [Signal](https://signal.org) | FREE | Secure messaging app. |
 | [Sink It](https://gosinkit.com) | FREE | Makes Reddit less crappy... |
+| [Sketchbook](https://www.sketchbook.com) | FREE | Drawing and painting app. |
 | [SkyGuide](https://apps.apple.com/us/app/sky-guide/id576588894) | FREE | Astronomy tracking app for finding stars and planets. |
 | [Songkick](https://www.songkick.com/) | FREE | Music discovery and concert tracking app. |
 | [Sonic](https://apps.apple.com/us/app/sonic-tone-generator/id986999895) | FREE | Tone generator app for creating audio tones. |
