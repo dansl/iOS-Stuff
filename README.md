@@ -57,7 +57,8 @@ A page dedicated to all my favorite apps, tips, and tricks for iOS. Many of thes
 | [Orion HDMI Monitor](https://apps.apple.com/us/app/hdmi-monitor-orion/id6459355072) | FREE | Turn your iPad into an HDMI monitor. |
 | [Pixel Studio](https://apps.apple.com/us/app/pixel-studio-for-pixel-art/id1404203859) | FREE | Pixel art creation and editing app for iOS devices. |
 | [Pixelmator](https://www.pixelmator.com/pro/) | $ | Image creation and photo editing software. A great alternative to Photoshop, and much cheaper comparatively. |
-| [Plex](https://www.plex.tv) | FREE | Media server and streaming app. |
+| [Plex](https://www.plex.tv) | FREE | Media server that will stream your music, movies and TV shows to any device. |
+| [Plexamp](https://www.plex.tv/plexamp/) | FREE | Music streaming app that will stream music from your Plex server. Also has AI playlist generation. |
 | [Procreate](https://procreate.com) | $ | Digital art creation and editing app for iOS devices. |
 | [Procreate Dreams](https://procreate.com/dreams) | $ | Digital animation app for iOS devices. |
 | [Prompt](https://panic.com/prompt/) | $ | Remote SSH Manager. |
