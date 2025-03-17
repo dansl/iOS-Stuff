@@ -56,6 +56,7 @@ A page dedicated to all my favorite apps, tips, and tricks for iOS. Many of thes
 | [OnShape 3D CAD](https://apps.apple.com/us/app/onshape-3d-cad/id923421284) | FREE | 3D modeling and design app for engineering. |
 | [Orion HDMI Monitor](https://apps.apple.com/us/app/hdmi-monitor-orion/id6459355072) | FREE | Turn your iPad into an HDMI monitor. |
 | [Pixel Studio](https://apps.apple.com/us/app/pixel-studio-for-pixel-art/id1404203859) | FREE | Pixel art creation and editing app for iOS devices. |
+| [Photomator](https://www.pixelmator.com/photomator/) | $ | Photo editing software. |
 | [Pixelmator](https://www.pixelmator.com/pro/) | $ | Image creation and photo editing software. A great alternative to Photoshop, and much cheaper comparatively. |
 | [Plex](https://www.plex.tv) | FREE | Media server that will stream your music, movies and TV shows to any device. |
 | [Plexamp](https://www.plex.tv/plexamp/) | FREE | Music streaming app that will stream music from your Plex server. Also has AI playlist generation. |
