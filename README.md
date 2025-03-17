@@ -166,10 +166,4 @@ A page dedicated to all my favorite apps, tips, and tricks for iOS. Many of thes
 - **Crop It Quick** - Just open an image and do the two-finger zoom-in, either in portrait or landscape mode. A Crop button appears at the upper right. Tap it and the image is instantly whittled down to what you see on the screen.
 - **Input text into a text field using your camera** - This is especially helpful for inputing a download code from a flyer. When on a website that requires text input, tap on a field like you are going to paste some text. Instead of pasting, find or slide left on the popup menu and tap "Autofill". Then tap "Scan Text". Now you can use your camera to scan text and input it into the text field. 
 
-
-Thanks for reading. Follow me for more!
-- [Website](https://dansl.net)
-
-- [Bluesky](https://bsky.app/profile/dansnull.bsky.social)
-
-- [Mastodon](https://mastodon.social/@DansNull)
+Thanks for reading. [Follow me](https://bsky.app/profile/dansnull.bsky.social) for more!
